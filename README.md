@@ -9,7 +9,7 @@ Welcome to the official website of **Gen-Z Technologies** — a modern and respo
 
 ## 🔗 Live Website
 
-👉 [Visit the Live Site](https://your-deployment-url.com)  
+👉 [Visit the Live Site](https://jills.netlify.app/)  
 
 
 ---
@@ -62,7 +62,7 @@ README.md
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/genz-technologies.git
+   git clone 
 
 
 Jillian Adhiambo
