@@ -50,7 +50,7 @@ This project is a responsive multi-page website built using **HTML5**, **CSS3**,
 
 ## 📁 Folder Structure
 
-web dev.html
+index.html
 style 6.css
 script.js
 README.md
@@ -62,9 +62,10 @@ README.md
 
 1. Clone the repository:
    ```bash
-   git clone https
-hth
+   git clone https://github.com/jill-12/web-dev-project.git
 
+
+Author;
 Jillian Adhiambo
 📧 jillianadhiambo03@gmail.com
 🔗 Jill-12-GITHUB
