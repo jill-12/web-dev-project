@@ -32,7 +32,7 @@ This project is a responsive multi-page website built using **HTML5**, **CSS3**,
 - ✅ Clean and modern UI/UX design
 - ✅ Organized codebase for scalability
 - ✅ Interactive JavaScript enhancements
-- ✅ Deployed on a reliable platform (GitHub Pages / Netlify / Vercel)
+- ✅ Deployed on a reliable platform (  Netlify )
 
 ---
 
