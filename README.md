@@ -9,7 +9,7 @@ Welcome to the official website of **Gen-Z Technologies** — a modern and respo
 
 ## 🔗 Live Website
 
-👉 [Visit the Live Site](https://jills.netlify.app/)  
+👉 (https://jills.netlify.app/)  
 
 
 ---
@@ -53,7 +53,20 @@ This project is a responsive multi-page website built using **HTML5**, **CSS3**,
 index.html
 style 6.css
 script.js
+image 7.jpg
+img 9.webp
+img 10.webp
+img 11.jpg
+img 12.jpg
 README.md
+
+
+
+# 🌍 Deployment & Submission
+
+- Deployed on: [Netlify](https://jills.netlify.app/)
+- All website files (HTML, CSS, JS, and images) are included in this repository under appropriate folders.
+- Project documentation is included in this README.
 
 
 ---
